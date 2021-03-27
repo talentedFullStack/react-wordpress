@@ -10,7 +10,6 @@ Activate the plugin in plugins' dashboard screen
 Terminal - WP Cli
 
 cd wp-content/plugins
-git clone git@github.com:BenBroide/create-react-app-wp-admin.git
 wp plugin activate create-react-app-wp-admin
 Available React Create App Scripts
 In the project directory, you can run in react-plugin/react-app folder:
